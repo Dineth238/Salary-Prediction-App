@@ -1,0 +1,5 @@
+01 source venv/bin/activate
+02 pip install pandas
+03 pip install matplotlib
+04 pip install streamlit
+05 streamlit run app.py
